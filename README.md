@@ -1,8 +1,4 @@
 <h1>Estructuras de Control</h1>
-<p><strong>Asignatura:</strong> Algoritmos Computacionales <br>
-  
-<strong>Profesor:</strong> Gamalier Reyes del Carmen</p>  
-
 <h2> Integrantes:</h2>
 
 <p>1-Esqueisi Michel Mercedes Santana: 26-EISN-2-005
