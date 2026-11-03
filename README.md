@@ -53,18 +53,18 @@ Editor.md (Para el archivo Readme)</p>
 
 <h2>Capturas:</h2>
 
-<p>Ejercicio 1 - Caso Exitoso:
+<p><strong>Ejercicio 1 - Caso Exitoso:</strong>
 
 (Insertar imagen aquí)
 
-Ejercicio 1 - Caso de Error:
+<strong>Ejercicio 1 - Caso de Error:</strong>
 
 (Insertar imagen aquí)
 
-Ejercicio 2 - Caso Exitoso:
+<strong>Ejercicio 2 - Caso Exitoso:</strong>
 
 (Insertar imagen aquí)
 
-Ejercicio 2 - Caso de Error:
+<strong>Ejercicio 2 - Caso de Error:</strong></p>
 
-(Insertar imagen aquí)</p>
+(Insertar imagen aquí)
