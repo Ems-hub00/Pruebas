@@ -52,3 +52,6 @@ Control de versiones: Git y GitHub<br>
 Editor.md (Para el archivo Readme)</p> 
 
 <h2>Capturas:</h2>
+
+![The San Juan Mountains are beautiful](<img width="1226" height="601" alt="image" src="https://github.com/user-attachments/assets/f0fd2e8b-a2ae-4039-badc-6b66b052520d" />
+ "San Juan Mountains")
