@@ -36,11 +36,19 @@ Fórmulas matemáticas para cuotas fijas mensuales y desglose de la tabla de amo
 Validación estricta de entradas mediante TryParse. </p>
 
 <h2>Datos de Salida:</h2>
+
 <p><strong>Ejercicio 1:</strong> Mensajes de estado, saldo actualizado, cantidad total de depósitos, retiros y saldo final al salir.<br>
+  
 <strong>Ejercicio 2:</strong>Tabla de amortización detallada, totales pagados y opción de repetir la simulación.</p>
+
 <h2>Tecnología Utilizada:</h2>
+
 <p>Lenguaje: C#<br>
-Entorno:[.NET SDK](https://dotnet.microsoft.com/).<br>
+  
+Entorno: [.NET SDK](https://dotnet.microsoft.com/).<br>
+
 Control de versiones: Git y GitHub<br> 
-Editor.md (Para el archivo Readme)</p>        
+
+Editor.md (Para el archivo Readme)</p> 
+
 <h2>Capturas:</h2>
