@@ -14,10 +14,14 @@
 
 <h2> Descripción:</h2>
 <p>Aplicación de consola en C# para la cooperativa "Ahorro Seguro" que integra un menú principal para gestionar un cajero automático y un simulador de préstamos.</p>
+
 <h2>Datos de Entrada:</h2>
 <p><strong>Menú Principal:</strong>Opción numérica (1, 2 o 3). <br> 
+  
 <strong>Ejercicio 1 (Cajero):</strong>PIN de 4 dígitos, opción de menú y montos numéricos para depósitos/retiros.<br>  
+
 <strong>Ejercicio 2 (Préstamo):</strong> Monto del préstamo (RD$ 5,000 - 500,000), plazo (6 - 60 meses) y categoría del socio (A, B o C).</p>  
+
 <h2>Datos que Procesa:</h2>
 
 <p>Validación de intentos de PIN y cálculo de saldo actual (inicial de RD$ 10,000.00).<br>
@@ -33,7 +37,7 @@ Validación estricta de entradas mediante TryParse. </p>
 <strong>Ejercicio 2:</strong>Tabla de amortización detallada, totales pagados y opción de repetir la simulación.</p>
 <h2>Tecnología Utilizada:</h2>
 <p>Lenguaje: C#<br>
-Entorno:[Duck Duck Go]([https://duckduckgo.com](https://dotnet.microsoft.com/es-es/).<br>
+Entorno:[.NET SDK](https://dotnet.microsoft.com/).<br>
 Control de versiones: Git y GitHub<br> 
 Editor.md (Para el archivo Readme)</p>        
 <h2>Capturas:</h2>
